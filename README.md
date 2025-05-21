@@ -12,11 +12,7 @@ COLLEGE CODE: 1106
 
 SUBMITTED BY, : 
 •	MEENAKSHI A N
-TEAM MEMBERS: 
-•	JANARTHANAN C
-•	KAVYA M
-•	YUVASHREE V 
-•	KOWSALYA 
+
 
 Phase 5: Project Demonstration & Documentation
 
